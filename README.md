@@ -10,7 +10,7 @@ output messages onto an LCD, power LED's, and send tweets to a Twitter account @
 	
 The library runs of a simple python script that interfaces with the GPIO pins, and connects to 
 the twitter account. A python LCD library was used from [Matt Hawkins](https://www.raspberrypi-spy.co.uk/).
-The python code is initiated through a startupscript that runs on boot. 
+The python code is initiated through a startup script that runs on boot. 
 Photos of the build process are also in this repo. 
 	
 ![Building the Library](/Photos/IMG_20160429_163801.jpg)
